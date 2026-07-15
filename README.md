@@ -295,10 +295,3 @@ ChromaDB is a lightweight, local vector database that runs with no external serv
 
 **Why Ollama + CodeLlama?**
 CodeLlama is a code-focused LLM that understands C++ syntax, MISRA patterns, and safety annotation conventions. Ollama runs it locally on CPU, keeping all code and proprietary logic on-premises — matching the data governance approach NXP requires for internal tools.
-
----
-
-## Related projects
-
-- [embedded-isp-pipeline](https://github.com/yourname/embedded-isp-pipeline) — the C++ codebase this system analyses
-- [oak-d-driver-monitor](https://github.com/yourname/oak-d-driver-monitor) — the OAK-D drowsiness detection project (standalone, not analysed by EmbedSentinel)
