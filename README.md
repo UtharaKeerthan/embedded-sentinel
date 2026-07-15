@@ -1,4 +1,4 @@
-# embedsentinel
+# embedded-sentinel
 
 A multi-agent AI system built with CrewAI, LangChain, and ChromaDB that autonomously analyses the [embedded-isp-pipeline](https://github.com/UtharaKeerthan/embedded-isp-pipeline) C++ codebase. It checks MISRA C++ compliance, classifies ISO 26262 ASIL safety levels, generates Doxygen documentation, creates unit test skeletons, and produces a full requirements traceability matrix — all without human intervention.
 
