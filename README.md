@@ -4,7 +4,7 @@ A multi-agent AI system built with CrewAI, LangChain, and ChromaDB that autonomo
 
 This mirrors the kind of AI-assisted SDLC platform described in NXP's AI Community guidelines: multi-agent orchestration applied to embedded safety-critical software engineering workflows.
 
----
+![embedded-sentinel Architecture — multi-agent MISRA/ISO 26262 pipeline](./embedsentinel-architecture.svg)
 
 ## What it does
 
